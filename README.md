@@ -1,57 +1,225 @@
+
 <div align="center">
 
-<img src="assets/logo-official.webp" alt="Falling With Knives — official artwork" width="760" />
+<img src="assets/logo-official.webp" alt="Falling With Knives — Official Studio Identity" width="680">
 
-# Falling With Knives
+<br>
 
-**Independent Software & Game Development Studio**
+### INDEPENDENT SOFTWARE & GAME DEVELOPMENT STUDIO
 
-*Software Engineering · Cybersecurity · Creative Technology · Indie Games*
+**SOFTWARE ENGINEERING &nbsp; / &nbsp; CYBERSECURITY &nbsp; / &nbsp; INTERACTIVE ENTERTAINMENT**
+
+<br>
 
 **Building things that probably shouldn't exist.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-fallingwithknives-181717?style=flat-square&logo=github)](https://github.com/fallingwithknives)
-[![Instagram](https://img.shields.io/badge/Instagram-fallingwithknives-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fallingwithknives/)
-[![YouTube](https://img.shields.io/badge/YouTube-Falling%20With%20Knives-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@fallingwithknives)
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fallingwithknives)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fallingwithknives)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fallingwithknives/)
 
 </div>
 
 ---
 
-## About the Studio
+## WHO WE ARE
 
-**Falling With Knives** is an independent development studio exploring the intersection of software engineering, cybersecurity, creative technology, and game development.
+**Falling With Knives** is an independent development studio working across software engineering, cybersecurity, and interactive entertainment.
 
-We build, experiment, test ideas, and develop unconventional projects with an emphasis on technical rigor and distinctive design.
+We bring technical discipline and creative independence together to build useful software, explore security challenges, and develop unconventional interactive experiences.
 
-## Areas of Focus
+Our work is driven by a simple philosophy:
 
-| Discipline | Focus |
-| :-- | :-- |
-| **Software Development** | Tools, applications, automation, and practical solutions |
-| **Cybersecurity** | Security-oriented research, testing, and defensive tooling |
-| **Game Development** | Independent games, prototypes, and interactive experiences |
-| **Creative Technology** | Experimental concepts and cross-disciplinary projects |
+**Question the obvious. Engineer the unexpected.**
 
-## Projects
+We value thoughtful architecture, responsible experimentation, and the freedom to explore ideas beyond conventional boundaries.
 
-Our public repositories will be featured here as they become available. Each project will include documentation, setup instructions, and its development status.
+---
 
-## Development Principles
+## WHAT WE BUILD
 
-- **Build deliberately.** Prioritize clear architecture and maintainable code.
-- **Security matters.** Consider privacy and security throughout development.
-- **Document the work.** Make projects understandable and reproducible.
-- **Experiment thoughtfully.** Explore unusual ideas without sacrificing quality.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Connect
+### 01 / SOFTWARE ENGINEERING
 
-- [Instagram](https://www.instagram.com/fallingwithknives/)
-- [YouTube](https://www.youtube.com/@fallingwithknives)
-- [GitHub](https://github.com/fallingwithknives)
+**Software built with purpose.**
+
+Applications, development tools, automation systems, and technical solutions designed around real requirements.
+
+**Core interests**
+- Application architecture
+- Python development
+- Workflow automation
+- Developer utilities
+- Systems integration
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / CYBERSECURITY
+
+**Security is part of engineering.**
+
+Security-conscious software development, defensive research, technical experimentation, and tools that support more resilient systems.
+
+**Core interests**
+- Secure development practices
+- Security automation
+- Vulnerability assessment
+- System hardening
+- Defensive security tooling
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / GAME DEVELOPMENT
+
+**Unconventional ideas. Interactive worlds.**
+
+Independent game development with an interest in distinctive mechanics, experimental concepts, and memorable experiences.
+
+**Core interests**
+- Gameplay programming
+- Game systems architecture
+- Prototyping
+- Interactive storytelling
+- Independent production
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / CREATIVE TECHNOLOGY
+
+**Experiment beyond the expected.**
+
+Exploring the space between software, design, automation, and emerging technical possibilities.
+
+**Core interests**
+- Experimental software
+- Creative coding
+- Technical prototypes
+- Cross-disciplinary development
+- New interaction concepts
+
+</td>
+</tr>
+</table>
+
+---
+
+## OUR ENGINEERING APPROACH
+
+We believe originality and engineering discipline should reinforce each other.
+
+| Principle | Our Approach |
+|:---|:---|
+| **Engineering First** | Design for clarity, reliability, and maintainability. |
+| **Security by Design** | Consider security and privacy from the earliest stages of development. |
+| **Purposeful Complexity** | Introduce complexity only when it solves a meaningful problem. |
+| **Documentation Matters** | Make technical decisions, setup procedures, and limitations understandable. |
+| **Test and Improve** | Validate assumptions, identify failures, and refine implementations. |
+| **Creative Independence** | Explore unconventional ideas without compromising technical responsibility. |
+
+---
+
+## SELECTED WORK
+
+<div align="center">
+
+### PROJECTS IN DEVELOPMENT
+
+Our public portfolio is being established.
+
+Projects will be featured here as they become ready for public release, with technical documentation and clearly identified development status.
+
+</div>
+
+### Repository Standards
+
+Where applicable, published projects will include:
+
+- A clear project overview and intended use.
+- Installation and configuration instructions.
+- Technology and dependency information.
+- Security considerations and known limitations.
+- Development status and version information.
+- Testing and contribution guidance.
+- Licensing information.
+
+**No placeholder projects. No fabricated releases. Only work we can demonstrate.**
+
+---
+
+## TECHNOLOGY & TOOLING
+
+We select technologies according to project requirements rather than committing to a single framework or ecosystem.
+
+**Current areas of technical focus:**
+
+| Area | Technologies & Tools |
+|:---|:---|
+| **Programming** | Python, SQL |
+| **Development** | Git, GitHub, Visual Studio Code |
+| **Systems** | Linux, Windows |
+| **Web Technologies** | HTML, CSS, JavaScript |
+| **Security** | Network analysis, security testing, system hardening |
+| **Game Development** | Python-based game development and prototyping |
+
+Individual repositories will document their actual implementation stacks, dependencies, and development environments.
+
+---
+
+## OPEN DEVELOPMENT
+
+GitHub is the central location for Falling With Knives' public technical work.
+
+We intend to use this space to share selected source code, document development decisions, present experiments, and publish projects when they reach an appropriate level of readiness.
+
+Not every experiment will become a product.
+
+Not every product will be open source.
+
+But every public release should have a clear purpose and documentation that reflects its actual state.
+
+---
+
+## CONNECT WITH THE STUDIO
+
+<div align="center">
+
+**Development updates. Technical experiments. Future releases.**
+
+<br>
+
+[**GITHUB**](https://github.com/fallingwithknives)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[**YOUTUBE**](https://www.youtube.com/@fallingwithknives)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[**INSTAGRAM**](https://www.instagram.com/fallingwithknives/)
+
+<br><br>
+
+For project inquiries and collaboration, please use our official channels until a dedicated studio contact address is available.
+
+</div>
 
 ---
 
 <div align="center">
-<sub>© Falling With Knives · Independent development studio</sub>
+
+### FALLING WITH KNIVES
+
+**SOFTWARE. SECURITY. GAMES.**
+
+*Building things that probably shouldn't exist.*
+
+<br>
+
+<sub>© 2026 Falling With Knives. All rights reserved.</sub>
+
 </div>
